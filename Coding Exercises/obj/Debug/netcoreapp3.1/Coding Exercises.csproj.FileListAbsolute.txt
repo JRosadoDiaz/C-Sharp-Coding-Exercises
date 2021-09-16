@@ -1,0 +1,14 @@
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\bin\Debug\netcoreapp3.1\Coding Exercises.exe
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\bin\Debug\netcoreapp3.1\Coding Exercises.deps.json
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\bin\Debug\netcoreapp3.1\Coding Exercises.runtimeconfig.json
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\bin\Debug\netcoreapp3.1\Coding Exercises.runtimeconfig.dev.json
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\bin\Debug\netcoreapp3.1\Coding Exercises.dll
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\bin\Debug\netcoreapp3.1\Coding Exercises.pdb
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.AssemblyInfoInputs.cache
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.AssemblyInfo.cs
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.dll
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.pdb
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.genruntimeconfig.cache
+C:\Users\Jose Rosado\source\repos\Coding Exercises\Coding Exercises\obj\Debug\netcoreapp3.1\Coding Exercises.csproj.AssemblyReference.cache
